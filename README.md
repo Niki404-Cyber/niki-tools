@@ -2,6 +2,7 @@
 
 # Setup Command
 ```
+termux-setup-storage
 pkg update
 pkg upgrade
 pkg install python
