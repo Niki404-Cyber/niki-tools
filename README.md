@@ -19,5 +19,5 @@ chmod 777 *
 ./FBA FRGT
 ```
 
-# Note: (This Tools Are Paid, So You Need Permission To Use niki-tools Tools Enjoy)
+# Note: (This Tools Are Paid, So You Need Permission first buy, than Use niki-tools Tools.)
 
