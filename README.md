@@ -1,6 +1,6 @@
 # Facebook Account Forgetting & Forget Otp Verification Tools
 
-#Run Command (termux)
+# Run Command (termux)
 
 ```
 pkg update
@@ -14,5 +14,5 @@ cd niki-tools
 ./FBA FRGT
 ```
 
-#Note: (This Tools Are Paid, So You Need Permission To Use niki-tools Tools Enjoy)
+# Note: (This Tools Are Paid, So You Need Permission To Use niki-tools Tools Enjoy)
 
