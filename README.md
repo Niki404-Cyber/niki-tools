@@ -15,8 +15,6 @@
 <img src="https://raw.githubusercontent.com/Niki404-Cyber/niki-tools/refs/heads/main/data/IMG_20260428_004644.jpg" width="70%" alt="NIKI-TOOLS Interface 1">
 </div>
 
-An elite, high-speed CLI utility engineered in Go for automated account filtering, OTP handling, and session extraction.
-
 ### ✨ Core Capabilities
 
 * **⚡ Hyper-Threaded:** Processes 30-200 concurrent tasks from .txt & .xlsx files.
