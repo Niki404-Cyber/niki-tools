@@ -6,9 +6,7 @@
 <a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/Dev-Mr_NIKI-black?style=for-the-badge&logo=telegram"></a>
 </div>
 <div align="center">
-<img src="https://raw.githubusercontent.com/Niki404-Cyber/niki-tools/refs/heads/main/data/IMG_20260428_004644.jpg" width="45%" alt="NIKI-TOOLS Interface 1">
- 
-<img src="https://raw.githubusercontent.com/Niki404-Cyber/niki-tools/refs/heads/main/data/IMG_20260428_004707.jpg" width="70%" alt="NIKI-TOOLS Interface 2">
+<img src="https://raw.githubusercontent.com/Niki404-Cyber/niki-tools/refs/heads/main/data/IMG_20260428_004644.jpg" width="60%" alt="NIKI-TOOLS Interface 1">
 </div>
 
 An elite, high-speed CLI utility engineered in Go for automated account filtering, OTP handling, and session extraction.
@@ -22,9 +20,9 @@ An elite, high-speed CLI utility engineered in Go for automated account filterin
  * 1 - Facebook (FB4A - katana)
  * 2 - Messenger (Orca-Android - orca)
  * 3 - FB-Lite (EMA - lite)
-```
+  
  * **🖥️ Browser & Platform:**
-```
+ ```
  * 1 - Chrome Browser (Android)
  * 2 - Kiwi Browser   (Android)
  * 3 - Chrome Browser (Windows)
