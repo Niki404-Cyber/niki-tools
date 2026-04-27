@@ -17,26 +17,33 @@ An elite, high-speed CLI utility engineered in Go for automated account filterin
 
  * **⚡ Hyper-Threaded:** Processes 30-200 concurrent tasks from .txt & .xlsx files.
 
- * **🤖 Deep API Emulation:** Direct API requests via Facebook (FB4A), Messenger (Orca-Android), & FB-Lite APIs.
+ * **🤖 API Methods:**
+ * 1 - Facebook (FB4A - katana)
+ * 2 - Messenger (Orca-Android - orca)
+ * 3 - FB-Lite (EMA - lite)
 
- * **🖥️ Web Spoofing:** Flawless browser fingerprinting for Android (Kiwi/Chrome), Windows, iOS, and macOS.
+ * **🖥️ Browser & Platform:**
+ * 1 - Chrome Browser (Android)
+ * 2 - Kiwi Browser   (Android)
+ * 3 - Chrome Browser (Windows)
+ * 4 - Safari Browser (iOS)
+ * 5 - Safari Browser (macOS)
  
-* **🌐 Smart Network:** Intelligent HTTP/HTTPS proxy routing Residential Proxy with auto-fallback to direct IP.
+* **🌐 Smart Network:** Intelligent HTTP/HTTPS proxy routing Residential Proxy with auto-fallback to direct IP & VPN Working
 
- * **🍪 Data Extraction:** Auto-validates and extracts acti Cookies (c_user, datr, sb formats).
+ * **🍪 Cookies Formats:**
+ * 1 - c_user Cookies
+ * 2 - datr Cookies
+ * 3 - sb Cookies
 
 ### 💎 Premium Access
 
 > Access requires an active, HWID-bound license key. Contact **@niki404_tg** to purchase.
 > 
 | License Tier | Price | Accepted Payments |
-
 |---|---|---|
-
 | **Weekly** (7 Days) | **$5** | Binance, Bkash, Nagad |
-
 | **Half-Monthly** (15 Days) | **$9** | Binance, Bkash, Nagad |
-
 | **Monthly** (30 Days) | **$16** | Binance, Bkash, Nagad |
 
 <div align="center">
