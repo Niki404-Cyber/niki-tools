@@ -53,6 +53,25 @@ An elite, high-speed CLI utility engineered in Go for automated account filterin
 | **Weekly** (7 Days) | **$5** | Binance, Bkash, Nagad |
 | **Half-Monthly** (15 Days) | **$9** | Binance, Bkash, Nagad |
 | **Monthly** (30 Days) | **$16** | Binance, Bkash, Nagad |
+
+# Setup Command
+```
+termux-setup-storage
+pkg update & pkg upgrade
+pkg install python python2
+pip install requests mechanize bs4 rich httpx
+pkg install git -y
+```
+
+# Run command
+```
+cd $HOME && rm -rf niki-tools
+git clone --depth=1 https://github.com/Niki404-Cyber/niki-tools.git
+cd niki-tools
+chmod +x niki_tools
+./niki_tools
+```
+
 <div align="center">
 <p><i>© 2026 Niki404-Cyber. All Rights Reserved.</i></p>
 </div>
