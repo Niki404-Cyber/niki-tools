@@ -1,3 +1,4 @@
+
 <div align="center">
 <h1>🛡️ NIKI-TOOLS</h1>
 <p><b>Facebook Account Recovery & Automation Framework</b></p>
@@ -5,7 +6,8 @@
 <img src="https://img.shields.io/badge/Premium-gold?style=for-the-badge">
 <img src="https://img.shields.io/badge/v1.3.2-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Mr_NIKI-cyan?style=for-the-badge">
-<!-- নতুন ক্লিকেবল বাটন (আইকনসহ) যুক্ত করা হয়েছে -->
+
+  <!-- নতুন ক্লিকেবল বাটন (আইকনসহ) যুক্ত করা হয়েছে -->
 <a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/Owner-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://t.me/niki_tools1"><img src="https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://t.me/niki_tools"><img src="https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -13,31 +15,34 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Niki404-Cyber/niki-tools/refs/heads/main/data/IMG_20260428_004644.jpg" width="70%" alt="NIKI-TOOLS Interface 1">
 </div>
+
 ### ✨ Core Capabilities
- * **⚡ Hyper-Threaded:** Processes 30-200 concurrent tasks from .txt & .xlsx files.
+
+* **⚡ Hyper-Threaded:** Processes 30-200 concurrent tasks from .txt & .xlsx files.
+
  * **🤖 API Methods:**
-```text
-1 - Facebook  (FB4A)
-2 - Messenger (Orca)
-3 - FB Lite   (EMA)
-
 ```
+ * 1 - Facebook  (FB4A)
+ * 2 - Messenger (Orca)
+ * 3 - FB Lite   (EMA)
+```
+
  * **🖥️ Browser & Platform:**
-```text
-1 - Chrome Browser (Android)
-2 - Kiwi Browser   (Android)
-3 - Chrome Browser (Windows)
-4 - Safari Browser (iOS)
-5 - Safari Browser (macOS)
-
 ```
- * **🌐 Smart Network:** Intelligent HTTP/HTTPS proxy routing Residential Proxy with auto-fallback to direct IP & VPN Working.
- * **🍪 Cookies Formats:**
-```text
-1 - c_user Cookies
-2 - datr Cookies
-3 - sb Cookies
+ * 1 - Chrome Browser (Android)
+ * 2 - Kiwi Browser   (Android)
+ * 3 - Chrome Browser (Windows)
+ * 4 - Safari Browser (iOS)
+ * 5 - Safari Browser (macOS)
+```
 
+ * **🌐 Smart Network:** Intelligent HTTP/HTTPS proxy routing Residential Proxy with auto-fallback to direct IP & VPN Working.
+
+ * **🍪 Cookies Formats:**
+```
+ * 1 - c_user Cookies
+ * 2 - datr Cookies
+ * 3 - sb Cookies
 ```
 ### 💎 Premium Access
 > Access requires an active, HWID-bound license key. Contact **tg: @niki404_tg** to purchase.
@@ -47,24 +52,25 @@
 | **Weekly** (7 Days) | **$5** | Binance, Bkash, Nagad |
 | **Half-Monthly** (15 Days) | **$9** | Binance, Bkash, Nagad |
 | **Monthly** (30 Days) | **$16** | Binance, Bkash, Nagad |
+
 # Setup Command
-```bash
+```
 termux-setup-storage
-pkg update && pkg upgrade -y
-pkg install python python2 -y
+pkg update & pkg upgrade
+pkg install python python2
 pip install requests mechanize bs4 rich httpx
 pkg install git -y
-
 ```
+
 # Run command
-```bash
+```
 cd $HOME && rm -rf niki-tools
-git clone --depth=1 [https://github.com/Niki404-Cyber/niki-tools.git](https://github.com/Niki404-Cyber/niki-tools.git)
+git clone --depth=1 https://github.com/Niki404-Cyber/niki-tools.git
 cd niki-tools
 chmod +x niki_tools
 ./niki_tools
-
 ```
+
 <div align="center">
 <p><i>© 2026 Niki404-Cyber. All Rights Reserved.</i></p>
 </div>
