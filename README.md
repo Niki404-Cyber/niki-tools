@@ -1,9 +1,9 @@
 <div align="center">
 <h1>🛡️ NIKI-TOOLS</h1>
 <p><b>Advanced Account Recovery & Automation Framework</b></p>
-<a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/Status-Premium-gold?style=for-the-badge"></a>
-<a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/Version-v1.3.2-blue?style=for-the-badge"></a>
-<a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/Dev-Mr_NIKI-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/Premium-gold?style=for-the-badge"></a>
+<a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/v1.3.2-blue?style=for-the-badge"></a>
+<a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/Dev-Mr_NIKI-cyan?style=for-the-badge&logo=telegram"></a>
 </div>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Niki404-Cyber/niki-tools/refs/heads/main/data/IMG_20260428_004644.jpg" width="70%" alt="NIKI-TOOLS Interface 1">
