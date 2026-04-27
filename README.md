@@ -13,7 +13,7 @@
 <a href="https://t.me/niki_tools"><img src="https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 <div align="center">
-<img src="https://raw.githubusercontent.com/Niki404-Cyber/niki-tools/refs/heads/main/data/IMG_20260428_004644.jpg" width="70%" alt="NIKI-TOOLS Interface 1">
+<img src="https://raw.githubusercontent.com/Niki404-Cyber/niki-tools/refs/heads/main/data/IMG_20260428_004644.jpg" width="80%" alt="NIKI-TOOLS Interface 1">
 </div>
 
 ### ✨ Core Capabilities
