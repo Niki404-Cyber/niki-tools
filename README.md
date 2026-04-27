@@ -1,5 +1,3 @@
-# Facebook Account Forgetting & Forget Otp Verification Tools
-
 <div align="center">
 <h1>🛡️ NIKI-TOOLS</h1>
 <p><b>Advanced Account Recovery & Automation Framework</b></p>
@@ -47,4 +45,3 @@ git clone --depth=1 https://github.com/Niki404-Cyber/niki-tools.git
 cd niki-tools
 chmod +x niki_pkg/niki_tools
 ```
-
