@@ -23,9 +23,9 @@ An elite, high-speed CLI utility engineered in Go for automated account filterin
 
  * **🤖 API Methods:**
 ```
- * 1 - Facebook (FB4A - katana)
- * 2 - Messenger (Orca-Android - orca)
- * 3 - FB-Lite (EMA - lite)
+ * 1 - Facebook  (FB4A)
+ * 2 - Messenger (Orca)
+ * 3 - FB Lite   (EMA)
 ```
 
  * **🖥️ Browser & Platform:**
