@@ -5,7 +5,8 @@
 <img src="https://img.shields.io/badge/Premium-gold?style=for-the-badge">
 <img src="https://img.shields.io/badge/v1.3.2-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Mr_NIKI-cyan?style=for-the-badge">
-<!-- নতুন ক্লিকেবল বাটন (আইকনসহ) যুক্ত করা হয়েছে -->
+
+  <!-- নতুন ক্লিকেবল বাটন (আইকনসহ) যুক্ত করা হয়েছে -->
 <a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/Owner-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://t.me/niki_tools1"><img src="https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://t.me/niki_tools"><img src="https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
