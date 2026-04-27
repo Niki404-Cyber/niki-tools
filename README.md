@@ -18,24 +18,27 @@ An elite, high-speed CLI utility engineered in Go for automated account filterin
  * **⚡ Hyper-Threaded:** Processes 30-200 concurrent tasks from .txt & .xlsx files.
 
  * **🤖 API Methods:**
+ ```
  * 1 - Facebook (FB4A - katana)
  * 2 - Messenger (Orca-Android - orca)
  * 3 - FB-Lite (EMA - lite)
-
+```
  * **🖥️ Browser & Platform:**
+```
  * 1 - Chrome Browser (Android)
  * 2 - Kiwi Browser   (Android)
  * 3 - Chrome Browser (Windows)
  * 4 - Safari Browser (iOS)
  * 5 - Safari Browser (macOS)
- 
+ ```
 * **🌐 Smart Network:** Intelligent HTTP/HTTPS proxy routing Residential Proxy with auto-fallback to direct IP & VPN Working
 
  * **🍪 Cookies Formats:**
+ ```
  * 1 - c_user Cookies
  * 2 - datr Cookies
  * 3 - sb Cookies
-
+```
 ### 💎 Premium Access
 
 > Access requires an active, HWID-bound license key. Contact **@niki404_tg** to purchase.
