@@ -2,8 +2,8 @@
 <h1>🛡️ NIKI-TOOLS</h1>
 <p><b>Advanced Account Recovery & Automation Framework</b></p>
 <a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/Status-Premium-gold?style=for-the-badge"></a>
-<a href="https://t.me/niki_tools1"><img src="https://img.shields.io/badge/Version-v1.3.2-blue?style=for-the-badge"></a>
-<a href="https://t.me/niki_tools"><img src="https://img.shields.io/badge/Dev-Mr_NIKI-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/Version-v1.3.2-blue?style=for-the-badge"></a>
+<a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/Dev-Mr_NIKI-black?style=for-the-badge&logo=telegram"></a>
 </div>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Niki404-Cyber/niki-tools/refs/heads/main/data/IMG_20260428_004644.jpg" width="45%" alt="NIKI-TOOLS Interface 1">
@@ -28,20 +28,3 @@ An elite, high-speed CLI utility engineered in Go for automated account filterin
 <div align="center">
 <p><i>© 2026 Niki404-Cyber. All Rights Reserved.</i></p>
 </div>
-
-# Setup Command
-```
-termux-setup-storage
-pkg update & pkg upgrade
-pkg install python python2
-pip install requests mechanize bs4 rich httpx
-pkg install git -y
-```
-
-# Run command
-```
-cd $HOME && rm -rf niki-tools
-git clone --depth=1 https://github.com/Niki404-Cyber/niki-tools.git
-cd niki-tools
-chmod +x niki_pkg/niki_tools
-```
