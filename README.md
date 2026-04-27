@@ -13,32 +13,36 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Niki404-Cyber/niki-tools/refs/heads/main/data/IMG_20260428_004644.jpg" width="70%" alt="NIKI-TOOLS Interface 1">
 </div>
+
 An elite, high-speed CLI utility engineered in Go for automated account filtering, OTP handling, and session extraction.
+
 ### ✨ Core Capabilities
- * **⚡ Hyper-Threaded:** Processes 30-200 concurrent tasks from .txt & .xlsx files.
+
+* **⚡ Hyper-Threaded:** Processes 30-200 concurrent tasks from .txt & .xlsx files.
+
  * **🤖 API Methods:**
-```text
+```
  * 1 - Facebook (FB4A - katana)
  * 2 - Messenger (Orca-Android - orca)
  * 3 - FB-Lite (EMA - lite)
-
 ```
+
  * **🖥️ Browser & Platform:**
-```text
+```
  * 1 - Chrome Browser (Android)
  * 2 - Kiwi Browser   (Android)
  * 3 - Chrome Browser (Windows)
  * 4 - Safari Browser (iOS)
  * 5 - Safari Browser (macOS)
-
 ```
+
  * **🌐 Smart Network:** Intelligent HTTP/HTTPS proxy routing Residential Proxy with auto-fallback to direct IP & VPN Working.
+
  * **🍪 Cookies Formats:**
-```text
+```
  * 1 - c_user Cookies
  * 2 - datr Cookies
  * 3 - sb Cookies
-
 ```
 ### 💎 Premium Access
 > Access requires an active, HWID-bound license key. Contact **@niki404_tg** to purchase.
