@@ -11,18 +11,21 @@
 <a href="https://t.me/niki_chatg"><img src="https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 <div align="center">
+
 <!-- ইমেজ পরিবর্তন করে অটো-প্লে ভিডিও ট্যাগ যুক্ত করা হলো -->
 <video src="https://raw.githubusercontent.com/Niki404-Cyber/niki-tools/main/data/5_6318807129130015999.mp4" autoplay loop muted playsinline width="80%"></video>
 </div>
+
 ### ✨ Core Capabilities
+
  * **⚡ Hyper-Threaded:** Processes 30-200 concurrent tasks from .txt & .xlsx files.
  * **🤖 API Methods:**
 ```
  * 1 - Facebook  (FB4A)
  * 2 - Messenger (Orca)
  * 3 - FB Lite   (EMA)
-
 ```
+
  * **🖥️ Browser & Platform:**
 ```
  * 1 - Chrome Browser (Android)
@@ -30,16 +33,17 @@
  * 3 - Opera Browser (Android)
  * 4 - Safari Browser (iOS)
  * 5 - Via Browser (Android)
-
 ```
+
  * **🌐 Smart Network:** Intelligent HTTP/HTTPS proxy routing Residential Proxy with auto-fallback to direct IP & VPN Working.
+
  * **🍪 Cookies Formats:**
 ```
  * 1 - c_user Cookies
  * 2 - datr Cookies
  * 3 - sb Cookies
-
 ```
+
 ### 💎 Premium Access
 > Access requires an active, HWID-bound license key. Contact **tg: @niki404_tg** to purchase.
 > 
