@@ -1,23 +1,25 @@
+
 <div align="center">
 <h1>🛡️ NIKI-TOOLS</h1>
 <p><b>Facebook Account Recovery & Automation Framework</b></p>
 <!-- আগের লিংকগুলো বাদ দেওয়া হয়েছে -->
 <img src="https://img.shields.io/badge/Premium-gold?style=for-the-badge">
-<img src="https://img.shields.io/badge/v1.3.4-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/v1.3.5-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Mr_NIKI-cyan?style=for-the-badge">
-<!-- নতুন ক্লিকেবল বাটন (আইকনসহ) যুক্ত করা হয়েছে -->
+
+  <!-- নতুন ক্লিকেবল বাটন (আইকনসহ) যুক্ত করা হয়েছে -->
 <a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/Owner-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://t.me/niki_tools2"><img src="https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://t.me/niki_chatg"><img src="https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 <div align="center">
-
-  <!-- গিটহাবের সঠিক raw লিংক ব্যবহার করা হলো -->
-<video src="https://github.com/Niki404-Cyber/niki-tools/raw/main/data/5_6318807129130015999.mp4" autoplay loop muted playsinline width="80%"></video>
+<img src="https://raw.githubusercontent.com/Niki404-Cyber/niki-tools/refs/heads/main/data/IMG_20260428_004644.jpg" width="80%" alt="NIKI-TOOLS Interface 1">
 </div>
 
 ### ✨ Core Capabilities
- * **⚡ Hyper-Threaded:** Processes 30-200 concurrent tasks from .txt & .xlsx files.
+
+* **⚡ Hyper-Threaded:** Processes 30-200 concurrent tasks from .txt & .xlsx files.
+
  * **🤖 API Methods:**
 ```
  * 1 - Facebook  (FB4A)
@@ -35,13 +37,13 @@
 ```
 
  * **🌐 Smart Network:** Intelligent HTTP/HTTPS proxy routing Residential Proxy with auto-fallback to direct IP & VPN Working.
+
  * **🍪 Cookies Formats:**
 ```
  * 1 - c_user Cookies
  * 2 - datr Cookies
  * 3 - sb Cookies
 ```
-
 ### 💎 Premium Access
 > Access requires an active, HWID-bound license key. Contact **tg: @niki404_tg** to purchase.
 > 
@@ -50,6 +52,7 @@
 | **Weekly** (7 Days) | **$5** | Binance, Bkash, Nagad |
 | **Half-Monthly** (15 Days) | **$9** | Binance, Bkash, Nagad |
 | **Monthly** (30 Days) | **$16** | Binance, Bkash, Nagad |
+
 # Setup Command
 ```
 termux-setup-storage
@@ -57,17 +60,17 @@ pkg update & pkg upgrade
 pkg install python python2
 pip install requests mechanize bs4 rich httpx
 pkg install git -y
-
 ```
+
 # Run command
 ```
 cd $HOME && rm -rf niki-tools
-git clone --depth=1 [https://github.com/Niki404-Cyber/niki-tools.git](https://github.com/Niki404-Cyber/niki-tools.git)
+git clone --depth=1 https://github.com/Niki404-Cyber/niki-tools.git
 cd niki-tools
 chmod +x niki_tools
 ./niki_tools
-
 ```
+
 <div align="center">
 <p><i>© 2026 Niki404-Cyber. All Rights Reserved.</i></p>
 </div>
