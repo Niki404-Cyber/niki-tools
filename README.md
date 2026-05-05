@@ -45,7 +45,7 @@
  * 3 - sb Cookies
 ```
 ### 💎 Premium Access
-> Access requires an active, HWID-bound license key. Contact **tg: @niki404_tg** to purchase.
+> Access requires an active, HWID-bound license key. Contact **tg: @tareqtg** to purchase.
 > 
 | License Tier | Price | Accepted Payments |
 |---|---|---|
