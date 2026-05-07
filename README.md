@@ -4,7 +4,7 @@
 <p><b>Facebook Account Recovery & Automation Framework</b></p>
 <!-- আগের লিংকগুলো বাদ দেওয়া হয়েছে -->
 <img src="https://img.shields.io/badge/Premium-gold?style=for-the-badge">
-<img src="https://img.shields.io/badge/v1.3.8-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/v1.4.0-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Mr_NIKI-cyan?style=for-the-badge">
 
   <!-- নতুন ক্লিকেবল বাটন (আইকনসহ) যুক্ত করা হয়েছে -->
