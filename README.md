@@ -49,9 +49,9 @@
 > 
 | License Tier | Price | Accepted Payments |
 |---|---|---|
-| **Weekly** (7 Days) | **$5** | Binance, Bkash, Nagad |
-| **Half-Monthly** (15 Days) | **$9** | Binance, Bkash, Nagad |
-| **Monthly** (30 Days) | **$16** | Binance, Bkash, Nagad |
+| **Weekly** (7 Days) | **$8** | Binance, Bkash, Nagad |
+| **Half-Monthly** (15 Days) | **$15** | Binance, Bkash, Nagad |
+| **Monthly** (30 Days) | **$28** | Binance, Bkash, Nagad |
 
 # Setup Command
 ```
