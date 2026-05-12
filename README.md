@@ -4,7 +4,7 @@
 <p><b>Facebook Account Recovery & Automation Framework</b></p>
 <!-- আগের লিংকগুলো বাদ দেওয়া হয়েছে -->
 <img src="https://img.shields.io/badge/Premium-gold?style=for-the-badge">
-<img src="https://img.shields.io/badge/v1.4.1-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/v1.4.2-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Mr_NIKI-cyan?style=for-the-badge">
 
   <!-- নতুন ক্লিকেবল বাটন (আইকনসহ) যুক্ত করা হয়েছে -->
@@ -13,7 +13,7 @@
 <a href="https://t.me/niki_chatg"><img src="https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 <div align="center">
-<img src="https://raw.githubusercontent.com/Niki404-Cyber/niki-tools/refs/heads/main/data/IMG_20260428_004644.jpg" width="80%" alt="NIKI-TOOLS Interface 1">
+<img src="https://raw.githubusercontent.com/Niki404-Cyber/niki-tools/refs/heads/main/data/Screenshot_2026-05-12-21-02-01-531_com.termux~2.jpg" width="80%" alt="NIKI-TOOLS Interface 1">
 </div>
 
 ### ✨ Core Capabilities
