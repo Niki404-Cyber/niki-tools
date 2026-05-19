@@ -2,12 +2,10 @@
 <div align="center">
 <h1>🛡️ NIKI-TOOLS</h1>
 <p><b>Facebook Account Recovery & Automation Framework</b></p>
-<!-- আগের লিংকগুলো বাদ দেওয়া হয়েছে -->
 <img src="https://img.shields.io/badge/Premium-gold?style=for-the-badge">
-<img src="https://img.shields.io/badge/v1.4.3-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/v1.4.4-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Mr_NIKI-cyan?style=for-the-badge">
 
-  <!-- নতুন ক্লিকেবল বাটন (আইকনসহ) যুক্ত করা হয়েছে -->
 <a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/Owner-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://t.me/niki_tools2"><img src="https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://t.me/niki_chatg"><img src="https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -44,6 +42,13 @@
  * 2 - datr Cookies
  * 3 - sb Cookies
 ```
+
+* **🍪 META-AI (OTP Sender):**
+```
+ * 1 - Android
+ * 2 - Windows
+```
+
 ### 💎 Premium Access
 > Access requires an active, HWID-bound license key. Contact **tg: @tareqtg** to purchase.
 > 
