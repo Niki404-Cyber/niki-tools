@@ -43,7 +43,7 @@
  * 3 - sb Cookies
 ```
 
-* **🍪 META-AI (OTP Sender):**
+* **🤖 META-AI (OTP Sender):**
 ```
  * 1 - Android
  * 2 - Windows
