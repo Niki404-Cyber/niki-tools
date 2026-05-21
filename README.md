@@ -64,6 +64,7 @@ termux-setup-storage
 pkg update & pkg upgrade
 pkg install python python2
 pip install requests mechanize bs4 rich httpx
+pip install httpx[http2]
 pkg install git -y
 ```
 
