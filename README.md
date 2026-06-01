@@ -3,7 +3,7 @@
 <h1>🛡️ NIKI-TOOLS</h1>
 <p><b>Facebook Account Recovery & Automation Framework</b></p>
 <img src="https://img.shields.io/badge/Premium-gold?style=for-the-badge">
-<img src="https://img.shields.io/badge/v1.5.6-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/v1.5.7-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Mr_NIKI-cyan?style=for-the-badge">
 
 <a href="https://t.me/niki404_tg"><img src="https://img.shields.io/badge/Owner-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
