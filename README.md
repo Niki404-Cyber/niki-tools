@@ -48,13 +48,12 @@
 
 * **🤖 META-AI (OTP Sender):**
 ```
- * 1 - Android
- * 2 - Windows
+ BROWSER API
 ```
 
 * **🤖 Viewpoints (OTP Sender):**
 ```
-* API METHOD *
+ APP API
 ```
 
 ### 💎 Premium Access
