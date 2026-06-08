@@ -18,7 +18,7 @@
 
 * **⚡ Hyper-Threaded:** Processes 30-200 concurrent tasks from .txt & .xlsx files.
 
- * **🤖 API Methods:**
+ * **🤖 FORGET APP API:**
 ```
  * 1 - Facebook  (FB4A)
  * 2 - Messenger (Orca)
@@ -26,15 +26,20 @@
  * 4 - Facebook  (iOS)
 ```
 
- * **🖥️ Browser & Platform:**
+ * **🖥️ FORGET & CONFIRM (MOBILE MODE):**
 ```
- * 1 - Chrome Browser (Android)
- * 2 - Kiwi Browser   (Android)
- * 3 - Opera Browser (Android)
- * 4 - Safari Browser (iOS)
- * 5 - Via Browser (Android)
- * 6 - Samsung Browser (Android)
- * 7 - DuckDuckGo Browser (Android)
+ * 1 - Chrome Browser
+ * 2 - Kiwi Browser
+ * 3 - Opera Browser
+ * 4 - Safari Browser
+ * 5 - Via Browser
+ * 6 - Samsung Browser
+ * 7 - DuckDuckGo Browser
+```
+
+* **🖥️ FORGET (DESKTOP MODE):**
+```
+ WEB API
 ```
 
  * **🌐 Smart Network:** Intelligent HTTP/HTTPS proxy routing Residential Proxy with auto-fallback to direct IP & VPN Working.
@@ -48,7 +53,7 @@
 
 * **🤖 META-AI (OTP Sender):**
 ```
- BROWSER API
+ WEB API
 ```
 
 * **🤖 Viewpoints (OTP Sender):**
