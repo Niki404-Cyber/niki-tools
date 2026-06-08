@@ -23,6 +23,7 @@
  * 1 - Facebook  (FB4A)
  * 2 - Messenger (Orca)
  * 3 - FB Lite   (EMA)
+ * 4 - Facebook  (iOS)
 ```
 
  * **🖥️ Browser & Platform:**
@@ -32,6 +33,8 @@
  * 3 - Opera Browser (Android)
  * 4 - Safari Browser (iOS)
  * 5 - Via Browser (Android)
+ * 6 - Samsung Browser (Android)
+ * 7 - DuckDuckGo Browser (Android)
 ```
 
  * **🌐 Smart Network:** Intelligent HTTP/HTTPS proxy routing Residential Proxy with auto-fallback to direct IP & VPN Working.
@@ -47,6 +50,11 @@
 ```
  * 1 - Android
  * 2 - Windows
+```
+
+* **🤖 Viewpoints (OTP Sender):**
+```
+* API METHOD *
 ```
 
 ### 💎 Premium Access
