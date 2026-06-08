@@ -56,7 +56,7 @@
  WEB API
 ```
 
-* **🤖 Viewpoints (OTP Sender):**
+* **💭 Viewpoints (OTP Sender):**
 ```
  APP API
 ```
