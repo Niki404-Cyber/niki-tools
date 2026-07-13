@@ -61,6 +61,13 @@
  APP API
 ```
 
+* **💭 FB-REG (OTP Sender & Confirmer):**
+```
+ APP API
+New Facebook Account Create Possible Panel Number & Hotmail 🔥
+
+```
+
 ### 💎 Premium Access
 > Access requires an active, HWID-bound license key. Contact **tg: @tareqtg** to purchase.
 > 
